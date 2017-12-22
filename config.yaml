@@ -1,0 +1,20 @@
+
+# Site settings
+title: Robert Fields
+email: robert.g.fields@alumni.wfu.edu
+description:         '<div><img src="https://raw.githubusercontent.com/robertfields/robertfields.github.io/master/public/Robert Fields-01.jpeg" width="90%" height="90%" </img></div>'
+
+baseurl: "http://robertfields.github.io" # the subpath of your site, e.g. /blog/
+url: "http://robertfields.github.io" # the base hostname & protocol for your site
+github_username:  robertfields
+permalink: /:year/:month/:title.html
+excerpt_separator: <!--more-->
+
+
+# Build settings
+markdown: kramdown
+
+# Dependencies
+gems:                [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
