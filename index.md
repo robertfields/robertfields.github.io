@@ -2,7 +2,7 @@
 layout: page
 ---
 <!--Redirect to LinkedIn until complete -->
-  <meta http-equiv="refresh" content="1; url=http://linkedin.com/in/rgfields/"/>
+<!-- meta http-equiv="refresh" content="0; url=http://linkedin.com/in/rgfields/"/ -->
 
 <center>
 <img src="/public/Robert Fields-01.jpeg" alt="robert" align="right" style="width: 50%; height: 50%; margin:8px">
