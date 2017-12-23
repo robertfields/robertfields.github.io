@@ -4,7 +4,7 @@ layout: page
 
 
 <center>
-<img src="/public/Robert Fields-01.jpg" alt="robert" align="right" style="width: 42%; height: 42%; margin:8px">
+<img src="/public/Robert Fields-01.jpeg" alt="robert" align="right" style="width: 42%; height: 42%; margin:8px">
 </center>
 
 [Wake Forest University School of Business](http://business.wfu.edu)
