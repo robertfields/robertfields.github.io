@@ -2,7 +2,7 @@
 # Site settings
 title: Robert Fields
 email: robert.g.fields@alumni.wfu.edu
-description:         '<div><img src="https://raw.githubusercontent.com/robertfields/robertfields.github.io/master/public/logo.jpeg" width="90%" height="90%" </img></div>'
+description:         '<div><img src="https://raw.githubusercontent.com/robertfields/robertfields.github.io/master/public/logo.jpg" width="90%" height="90%" </img></div>'
 
 baseurl: "https://robertfields.github.io" # the subpath of your site, e.g. /blog/
 url: "https://robertfields.github.io" # the base hostname & protocol for your site
