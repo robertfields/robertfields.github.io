@@ -13,7 +13,7 @@ I've loved optimization and predictive modeling ever since I started studying Ec
 
 This experience while working at companies like [Red Ventures](https://redventures.com) has driven me to invest more in my love for problem solving. I'm looking for opportunities in data science, basketball analytics, strategic consulting, financial analytics, and other related fields.
 
-If you are interested in what I can offer and doing some great work together, please reach out to me via:
+Check out some of my work and experience in the sidebar. If you're interested in what I can offer and doing some great work together, please reach out to me via:
 
 <div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
 <p>
