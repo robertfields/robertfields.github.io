@@ -1,13 +1,13 @@
 ---
 layout: page
-title: resume
+title: Robert Fields
 permalink: resume/
 ---
 
-Education
+#### Education
 =========
 
-Wake Forest University, School of Business Winston-Salem, NC
+#### Wake Forest University, School of Business Winston-Salem, NC
 ------------------------------------------------------------
 
 Masters of Science in Business Analytics May 2018
@@ -28,14 +28,14 @@ Dean’s List (Fall 2012 – Spring 2015)
 
 Foreign Study: Barcelona, Spain Fall 2013
 
-### Skills
+##### Skills
 
 ***Technical*:** Microsoft Excel and Office, R, SQL, SAS, Google
 Analytics and AdWords, Salesforce, Google Tag Manager
 
-#### **Language Skills:** Conversational knowledge of Spanish (oral and written)
+##### **Language Skills:** Conversational knowledge of Spanish (oral and written)
 
-### Professional Experience
+#### Professional Experience
 
 JouleBug Raleigh, NC
 --------------------
@@ -102,7 +102,7 @@ Royal Parking Inc. Raleigh, NC *Parking Associate* June 2012 - August 2013
 -   Coordinated valet parking services at several locations in Raleigh,
     assisting customers with luggage, directions, area information, etc.
 
-### Community and Leadership Activities
+#### Community and Leadership Activities
 
 Boy Scouts of America, *Eagle Scout* Raleigh, NC
 ------------------------------------------------
@@ -128,7 +128,7 @@ Inter Fraternity Council Wake Forest University
 -   Elected to assist in leading all IFC sponsored events involving the
     Fraternity and Greek community on campus.
 
-### First Presbyterian Church Raleigh, NC
+#### First Presbyterian Church Raleigh, NC
 
 *Youth Ministry Intern* August 2009 - June 2011
 
