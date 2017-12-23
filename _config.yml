@@ -6,7 +6,6 @@ description:         '<div><img src="https://raw.githubusercontent.com/robertfie
 
 baseurl: "http://robertfields.github.io" # the subpath of your site, e.g. /blog/
 url: "http://robertfields.github.io" # the base hostname & protocol for your site
-twitter_username:
 github_username:  robertfields
 permalink: /:year/:month/:title.html
 excerpt_separator: <!--more-->
