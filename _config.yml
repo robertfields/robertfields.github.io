@@ -9,12 +9,3 @@ url: "http://robertfields.github.io" # the base hostname & protocol for your sit
 github_username:  robertfields
 permalink: /:year/:month/:title.html
 excerpt_separator: <!--more-->
-
-
-# Build settings
-markdown: kramdown
-
-# Dependencies
-gems:                [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
