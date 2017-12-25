@@ -8,6 +8,11 @@ permalink: airbnbtableau/
 
 This is a dashboard I created for a Data Visualization class in the Wake Forest MSBA program. It uses data pulled from Airbnb listings in Dublin, Ireland from the [Inside Airbnb](http://insideairbnb.com/get-the-data.html) website.
 
+```CSS
+iframe {
+margin: 5px;
+}
+```
 
 <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" width="999" height="999" align="center" marginwidth="0">
 </iframe>
