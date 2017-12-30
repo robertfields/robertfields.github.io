@@ -16,19 +16,11 @@ This is a dashboard I created for a Data Visualization class in the Wake Forest 
   <div id="openModal" class="modalDialog">
   <div>
   		<a href="#close" title="Close" class="close">X</a>
-  		<h2>Modal Box</h2>
-  		<p>This is a sample modal box that can be created using the powers of CSS3.</p>
-  		<p>You could do a lot of things here like have a pop-up ad that shows when your website loads, or create a login/register form for users.</p>
+      <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" style="width: 50%; height= 100%; margin: 8px" align="center">
+      </iframe>
   	</div>
   </div>
 </center>
-
-
-
-
-
-<iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" width="720" height="720" align="center" marginwidth="0">
-</iframe>
 
 
 For this assignment, I was to construct two dynamic dashboards, one to evaluate the competitive landscape and another to be used as a pricing tool. It shows the user information for listings across the city, filtered by type of room, neighborhood, property type, accomodation, etc.
