@@ -4,6 +4,4 @@ title: Robert Fields
 permalink: resume/
 ---
 
-<object>
-<embed src="/public/Robert Fields Resume.pdf" width="500" height="375" type='application/pdf'>
-</obect>
+<embed src="/public/Robert Fields Resume.pdf" style= "width: 50%; height: 50%" align="center" type='application/pdf'>
