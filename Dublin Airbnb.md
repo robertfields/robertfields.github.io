@@ -8,19 +8,17 @@ permalink: airbnbtableau/
 
 This is a dashboard I created for a Data Visualization class in the Wake Forest MSBA program. It uses data pulled from Airbnb listings in Dublin, Ireland from the [Inside Airbnb](http://insideairbnb.com/get-the-data.html) website.
 
-<center>
-  <a href="#openModal">
+<a href="#openModal">
   <img src= "/public/Dublin Airbnb Dashboard.png" alt= "dublindash" align= "center">
-  </a>
+</a>
 
-  <div id="openModal" class="modalDialog">
+<div id="openModal" class="modalDialog">
   <div>
   		<a href="#close" title="Close" class="close">X</a>
       <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" style="width: 50%; height= 100%; margin: 8px" align="center">
       </iframe>
-  	</div>
   </div>
-</center>
+</div>
 
 
 For this assignment, I was to construct two dynamic dashboards, one to evaluate the competitive landscape and another to be used as a pricing tool. It shows the user information for listings across the city, filtered by type of room, neighborhood, property type, accomodation, etc.
