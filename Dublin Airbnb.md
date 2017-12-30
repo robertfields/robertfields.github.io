@@ -8,11 +8,11 @@ permalink: airbnbtableau/
 
 This is a dashboard I created for a Data Visualization class in the Wake Forest MSBA program. It uses data pulled from Airbnb listings in Dublin, Ireland from the [Inside Airbnb](http://insideairbnb.com/get-the-data.html) website.
 
-<a href="#openModal">
-  <img src= "/public/Dublin Airbnb Dashboard.png" alt= "dublindash" align= "center">
+<a href="#dublindashboard">
+  <img src= "/public/Dublin Airbnb Dashboard.png" alt= "Dublin Dashboard" align= "center">
 </a>
 
-<div id="openModal" class="modalDialog">
+<div id="dublindashboard" class="modalDialog">
   <div>
       <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" align="center" style="width: 100%; height: 100%; min-width: 1000px; min-height:700px">
       </iframe>
