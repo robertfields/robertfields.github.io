@@ -14,8 +14,8 @@ This is a dashboard I created for a Data Visualization class in the Wake Forest 
 
 <div id="openModal" class="modalDialog">
   <div>
-  		<a href="#close" title="Close" class="close">X</a>
-      <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" align="center" style="width: 100%; height: 100%; min-width: 800px; min-height:500px">
+  		<a href="#" title="Close" class="close"></a>
+      <iframe src="https://public.tableau.com/views/FinalExam_R_Fields/CompetitiveLandscape?:embed=y&:display_count=yes" align="center" style="width: 100%; height: 100%; min-width: 1000px; min-height:700px">
       </iframe>
   </div>
 </div>
