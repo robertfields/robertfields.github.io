@@ -13,12 +13,11 @@ I've loved optimization and predictive modeling ever since I started studying Ec
 
 This experience while working at companies like [Red Ventures](https://redventures.com) has driven me to invest more in my love for problem solving. I'm looking for opportunities in data science, basketball analytics, strategic consulting, financial analytics, and other related fields.
 
-Check out some of my work and experience in the sidebar. If you're interested in what I can offer and doing some great work together, please reach out to me via:
+I'll keep you updated with some of my work on different projects in the sidebar. If you're interested in what I can offer and doing some great work together, please reach out to me via:
 
 <div class="contact-buttons" style="line-height:160%;margin-left:30px;margin-top:10px">
 <p>
 <a href="mailto:robert.g.fields@alumni.wfu.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; Email<br></a>
-<a href="https://github.com/robertfields" target="_blank" style="color:#515151;"><i class="fa fa-github" style="font-size:1em"></i> &nbsp; GitHub<br></a>
 <a href="https://www.linkedin.com/in/rgfields" target="_blank" style="color:#515151;"><i class="fa fa-linkedin" style="font-size:1em"></i> &nbsp; LinkedIn<br></a>
 </p>
 </div>
