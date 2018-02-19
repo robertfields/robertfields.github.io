@@ -4,7 +4,7 @@ layout: page
 
 
 <center>
-<img src="/public/Robert Fields 3.jpeg" alt="robert" align="right" style="width: 50%; height: 50%; margin:8px">
+<img src="/public/Robert Fields 3.jpg" alt="robert" align="right" style="width: 50%; height: 50%; margin:8px">
 </center>
 
 I am a graduate student pursuing a Masters in Business Analytics at the [Wake Forest University School of Business](http://business.wfu.edu) and I'm interested in consulting, financial services, tech, and sports analytics.
