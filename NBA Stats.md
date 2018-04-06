@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robert Fields
-permalink: NBA Stats/
+permalink: NBAStats/
 ---
 # NBA Stats
 
