@@ -1,10 +1,12 @@
 ---
+layout: page
+title: Robert Fields
+permalink: R Final Project/
 output:
-  html_document:
+  md_document:
     code_folding: hide
     highlight: tango
     theme: flatly
-  pdf_document: default
 ---
 
 ```{r setup, echo = TRUE, message = FALSE, include=FALSE, warning = FALSE}
